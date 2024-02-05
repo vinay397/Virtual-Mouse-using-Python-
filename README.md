@@ -9,7 +9,7 @@ Features
 
 Gesture-Controlled Cursor: Wave goodbye to your physical mouse! Effortlessly move the cursor using natural hand gestures. User-Friendly Calibration: The system provides an easy calibration process, ensuring accurate and personalized gesture recognition. Intuitive Actions: Execute left-click, right-click, and scroll actions seamlessly with predefined hand gestures. Getting Started
 
-Prerequisites Make sure you have Python 3.x installed along with the required libraries: pip install opencv-python pyautogui Installation Clone the repository: git clone 
+Prerequisites Make sure you have Python 3.x installed along with the required libraries: pip install opencv-python pyautogui Installation Clone the repository: git clone https://github.com/vinay397/Virtual-Mouse-using-Python-.git
 
 License
 
